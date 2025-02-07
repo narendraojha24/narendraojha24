@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.prod.website-files.com/659f77ad8e06050cc27ed531/65ef63f6bd30ab838939a4ae_Developer%20productivity%20tools%202024.webp)](https://rishavchanda.io)
+![MasterHead](https://cdn.prod.website-files.com/659f77ad8e06050cc27ed531/65ef63f6bd30ab838939a4ae_Developer%20productivity%20tools%202024.webp)
 <h1 align="center">Hi 👋, I'm Narendra Ojha</h1>
 <h3 align="center">A passionate Frontend developer.</h3>
 
