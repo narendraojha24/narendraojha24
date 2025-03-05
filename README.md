@@ -13,7 +13,7 @@
 - 💬 Ask me about **Frontend, UI/UX, Figma**
 
 - 📫 How to reach me **narendraojha997@gmail.com**
-
+- contact no. **7987627973**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/narendraojha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendraojha24" height="30" width="40" /></a>
