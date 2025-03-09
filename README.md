@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React js , DSA**
+- 🌱 I’m currently learning **React js , DSA , Backend**
 
 - 💬 Ask me about **Frontend, UI/UX, Figma**
 
